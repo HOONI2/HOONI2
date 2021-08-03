@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Coding%20Story&fontSize=90)
-                                ## ✨ Tech ✨ 
+## ✨ Tech ✨ 
 
 
 
